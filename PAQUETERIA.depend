@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1462839088 source:c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\main.cpp
+	<iostream>
+	"EntregasUI.h"
+
+1462687073 source:c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\src\colaprioridad.cpp
+	"ColaPrioridad.h"
+
+1460987690 c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\include\colaprioridad.h
+	<string>
+	"NodoCola.h"
+
+1460986833 source:c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\src\localdate.cpp
+	"LocalDate.h"
+
+1462800112 c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\include\localdate.h
+	<ctime>
+	<string>
+
+1462784522 source:c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\src\nodocola.cpp
+	"NodoCola.h"
+
+1462687098 c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\include\nodocola.h
+	"Paquete .h"
+
+1462805364 source:c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\src\paquete .cpp
+	"Paquete .h"
+	<iostream>
+	<string>
+
+1462804229 c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\include\paquete .h
+	<string>
+	"LocalDate.h"
+
+1462746861 c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\include\entregasui.h
+	"Cola.h"
+	"Prioridades.h"
+
+1462839264 source:c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\src\entregasui.cpp
+	"EntregasUI.h"
+	<iostream>
+	<fstream>
+
+1462779458 source:c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\src\prioridad.cpp
+	"Prioridad.h"
+
+1462772088 c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\include\prioridad.h
+	"Cola.h"
+
+1462687729 c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\include\cola.h
+	<string>
+	"NodoCola.h"
+
+1462788143 source:c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\src\cola.cpp
+	"Cola.h"
+
+1462787502 c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\include\prioridades.h
+	"Prioridad.h"
+
+1462801367 source:c:\users\emmanuel\documents\cucei\4_cuarto semestre\sem estruct ii\paqueteria\src\prioridades.cpp
+	"Prioridades.h"
+	<iostream>
+
